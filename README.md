@@ -6,7 +6,7 @@ I enjoy combining marketing strategy with practical web solutions to create proj
 
 ## Skills & Tools
 
-- SEO – On-page, Off-page and Technical SEO basics
+- SEO – On-page, Off-page and Technical SEO
 - Social Media Marketing & Content Strategy
 - Google Ads / SEM
 - Google Analytics
