@@ -16,7 +16,7 @@ I enjoy combining marketing strategy with practical web solutions to create proj
 - Web Project Development
 - Automation & Digital Workflows
 
-## Featured Project
+## Featured Projects
 
 ### FINZO – Smart Personal Expense Tracker
 
@@ -32,6 +32,24 @@ A responsive personal finance web application built to help users manage income,
 
 **Live Demo:** https://finzofinalsourcecode.vercel.app/  
 **Project Details:** https://github.com/yusuf-digital/finzo-expense-tracker
+
+---
+
+### House Elite – Home Services Booking & Management
+
+A responsive home-services web application connecting **Customers, Service Professionals, and Administrators** across Cook, Maid, and Cleaner service workflows.
+
+**Key highlights:**
+- Service search and multi-step booking flow
+- Booking status tracking from request to completion
+- Contract Service and Emergency Booking workflows
+- Service Professional dashboard with requests, availability, earnings, ratings, and notifications
+- Customer service history with previous-service bills and PDF generation
+- Admin management for users, providers, bookings, complaints, contracts, and emergency requests
+- English / Tamil support and responsive desktop/mobile interface
+
+**Live Demo:** https://houseeliterealapp.vercel.app/  
+**Project Details:** https://github.com/yusuf-digital/house-elite-home-services
 
 ## Current Focus
 
